@@ -27,3 +27,5 @@ Atualmente estou estudando programação pela Trybe.
 - [Docker todolist](https://github.com/JeanVPacheco/sd-013-a-project-docker-todo-list) - Estudo de docker. Criação de containers para front, back e testes, assim como um docker compose
 - **MySql**
   - [One for all](https://github.com/JeanVPacheco/sd-013-a-mysql-one-for-all) - Modelar uma base dados, criar tabelas, lidar com VIEWS e TRIGGERS 
+  - [Vocabulary booster](https://github.com/JeanVPacheco/sd-013-a-mysql-vocabulary-booster) - IF, ELSE, funções de agregação, SUBQUERIES, STORED PROCEDURES e STORED FUNCTIONS
+  - [All for one](https://github.com/JeanVPacheco/sd-013-a-mysql-all-for-one) - O que é um banco de dados. MySQL: Operações básicas como CONCAT, COUNT, LIMIT, WHERE, INSERT, UPDATE, DETELE, etc
