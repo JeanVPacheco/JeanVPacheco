@@ -15,7 +15,7 @@ Atualmente estou estudando programação pela Trybe.
 - ❔ [JVPTrivia](https://github.com/JeanVPacheco/jvp-trivia-redux) - Desenvolvido em React. O front-end de um jogo de perguntas e respostas desenvolvido com React, para estudo do ReduxToolkit.
 - 💼 [Portfolio Pessoal](https://jeanvpacheco.vercel.app/) - Portfolio desenvolvido em React, mostra as tecnologias que já estudei
 
-## Projetos de estudo (👷 em construção)
+## Projetos de estudo 📚
 
 ### Back-end
 - [Store Manager](https://github.com/JeanVPacheco/sd-013-c-store-manager) - Camadas de Model, Service, Controller e desenvolvimento de uma API nos padrões REST
@@ -36,4 +36,4 @@ Atualmente estou estudando programação pela Trybe.
 - [Jogo de trivia](https://github.com/JeanVPacheco/sd-013-a-project-trivia-react-redux) - Redux: store, actions, dispatch, thunk, etc
 - [Trybe Wallet](https://github.com/JeanVPacheco/sd-013-a-project-trybewallet) - Redux e sua assincronicidade
 - [Testes em React](https://github.com/JeanVPacheco/sd-013-a-project-react-testing-library) - React-Testing-Library
-- [Front-end online store](https://github.com/JeanVPacheco/sd-013-a-project-frontend-online-store) - Desenvolvido em grupo, acessa uma API e mostra os resultados da pesquisa na página
+- [Front-end online store](https://github.com/JeanVPacheco/sd-013-a-project-frontend-online-store) - Desenvolvido em grupo, acessa uma API e mostra os resultados da pesquisa na 
