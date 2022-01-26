@@ -6,15 +6,15 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Javascript.</strong>
+ Linguagens: <strong>Javascript.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>React, MySQL, MongoDB, NodeJS, Docker.</strong>
+ Ferramentas: <strong>React, MySQL, MongoDB, NodeJS, Docker.</strong>
 </p>
 
 <p align="left">
-  💌 Entre em contato comigo: ⤵️
+ Entre em contato comigo:
 </p>
 
 <p align="left">
@@ -24,4 +24,4 @@
 <p align="left">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeanvpacheco/" />
   https://www.linkedin.com/in/jeanvpacheco/
-</p>  
+</p>
