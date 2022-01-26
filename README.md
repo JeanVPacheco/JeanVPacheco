@@ -1,27 +1,16 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+Olá! Me chamo **Jean** e sou **Desenvolvedor Web**.
+Atualmente estou estudando programação pela Trybe.
 
-<p align="left"> 
-  Olá! Me chamo Jean e sou <strong>Desenvolvedor Web</strong>.<br>
-  Atualmente estou estudando programação pela escola Trybe.
-</p>
+**Linguagens:** Javascript.
 
-<p align="left">
- Linguagens: <strong>Javascript.</strong>
-</p>
+**Ferramentas:** React, MySQL, MongoDB, NodeJS, Docker.
 
-<p align="left">
- Ferramentas: <strong>React, MySQL, MongoDB, NodeJS, Docker.</strong>
-</p>
+**Entre em contato comigo:**
 
-<p align="left">
- Entre em contato comigo:
-</p>
+![Gmail](https://camo.githubusercontent.com/476ab19105806159696fd6098dd159d4b2306ae13165392c97f804ac4a3f5aef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d4646303030303f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d464630303030266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6a65616e7669746f727040676d61696c2e636f6d) jeanvitorp@gmail.com
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=jeanvitorp@gmail.com" />
-  jeanvitorp@gmail.com
-</p> 
-<p align="left">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeanvpacheco/" />
-  https://www.linkedin.com/in/jeanvpacheco/
-</p>
+![LinkedIn](https://camo.githubusercontent.com/a667ffbafa82c75e7bf93a9a5f1b0cc61006c9aac00ca961eba1aba1409c61c3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564696e2d3065373661383f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6a65616e767061636865636f2f) https://www.linkedin.com/in/jeanvpacheco/
+
+### Projetos Pessoais
+- ❔ [JVPTrivia](https://github.com/JeanVPacheco/jvp-trivia-redux) - O front-end de um jogo de perguntas e respostas desenvolvido com React, para estudo do ReduxToolkit
+- 💼 [Portfolio Pessoal](https://jeanvpacheco.vercel.app/) - Portfolio desenvolvido em React, mostrando as tecnologias que já estudei
