@@ -25,3 +25,5 @@ Atualmente estou estudando programação pela Trybe.
   - [Updates simples e complexos](https://github.com/JeanVPacheco/sd-013-a-mongodb-commerce)
   - [Filtros, contar, criar e apagar documentos](https://github.com/JeanVPacheco/sd-013-a-mongodb-dataflights)
 - [Docker todolist](https://github.com/JeanVPacheco/sd-013-a-project-docker-todo-list) - Estudo de docker. Criação de containers para front, back e testes, assim como um docker compose
+- **MySql**
+  - [One for all](https://github.com/JeanVPacheco/sd-013-a-mysql-one-for-all) - Modelar uma base dados, criar tabelas, lidar com VIEWS e TRIGGERS 
