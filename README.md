@@ -31,7 +31,9 @@ Atualmente estou estudando programação pela Trybe.
   - [All for one](https://github.com/JeanVPacheco/sd-013-a-mysql-all-for-one) - O que é um banco de dados. MySQL: Operações básicas como CONCAT, COUNT, LIMIT, WHERE, INSERT, UPDATE, DETELE, etc
 
 ### Front-end (React)
-- [App de receitas](https://github.com/JeanVPacheco/sd-013-a-project-recipes-app) - Projeto desenvolvido em grupo, consolidação de tudo estudado anteriormente. Front-end de um app de receitas com filtros e funções como favoritar e cozinhar receitas. As informações vêm de uma API externa.
+- [App de receitas](https://github.com/JeanVPacheco/sd-013-a-project-recipes-app) - Desenvolvido em grupo, consolidação de tudo estudado anteriormente. Front-end de um app de receitas com filtros e funções como favoritar e cozinhar receitas. As informações vêm de uma API externa.
 - [StarWars datasearch](https://github.com/JeanVPacheco/sd-013-a-project-starwars-planets-search) - Context API e React Hooks
-- [Jogo de trivia](https://github.com/JeanVPacheco/sd-013-a-project-trivia-react-redux) - React. Desenvolvido em grupo para o estudo do redux: store, actions, dispatch, thunk, etc
-- [Trybe Wallet](https://github.com/JeanVPacheco/sd-013-a-project-trybewallet) - React. Desenvolvido para estudo de redux e sua assincronicidade
+- [Jogo de trivia](https://github.com/JeanVPacheco/sd-013-a-project-trivia-react-redux) - Redux: store, actions, dispatch, thunk, etc
+- [Trybe Wallet](https://github.com/JeanVPacheco/sd-013-a-project-trybewallet) - Redux e sua assincronicidade
+- [Testes em React](https://github.com/JeanVPacheco/sd-013-a-project-react-testing-library) - React-Testing-Library
+- [Front-end online store](https://github.com/JeanVPacheco/sd-013-a-project-frontend-online-store) - Desenvolvido em grupo, acessa uma API e mostra os resultados da pesquisa na página
