@@ -13,7 +13,7 @@ Atualmente estou estudando programação pela Trybe.
 
 ## Projetos Pessoais 🖋️
 - ❔ [JVPTrivia](https://github.com/JeanVPacheco/jvp-trivia-redux) - Desenvolvido em React. O front-end de um jogo de perguntas e respostas desenvolvido com React, para estudo do ReduxToolkit.
-- 💼 [Portfolio Pessoal](https://jeanvpacheco.vercel.app/) - Portfolio desenvolvido em React, mostra as tecnologias que já estudei
+- 💼 [Portfolio Pessoal](https://github.com/JeanVPacheco/personal-portfolio) - Portfolio desenvolvido em React, mostra as tecnologias que já estudei
 
 ## Projetos de estudo 📚
 
