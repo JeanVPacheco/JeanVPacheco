@@ -18,6 +18,7 @@ Atualmente estou estudando programação pela Trybe.
 ## Projetos de estudo 📚
 
 ### Back-end
+- [Blogs API](https://github.com/JeanVPacheco/sd-013-c-project-blogs-api) - Estudo da ferramenta ORM Sequelize, para trabalhar com MySQL utilizando apenas javascript
 - [Store Manager](https://github.com/JeanVPacheco/sd-013-c-store-manager) - Camadas de Model, Service, Controller e desenvolvimento de uma API nos padrões REST
 - [Talker Manager](https://github.com/JeanVPacheco/sd-013-c-project-talker-manager) - Criar e consumir promises, estudar a estrutura de uma aplicação no express
 - **Mongo DB**
